@@ -2,7 +2,7 @@
 
 This is my **personal portfolio website** showcasing my projects, skills, and experience. Built using **React.js, Tailwind CSS, and Framer Motion**, this modern, fully responsive website highlights my work as a **backend developer**.
 
-🌍 **Live Demo**: [View Portfolio](your-deployed-link)
+🌍 **Live Demo**: [View Portfolio](https://ujjwalportfoliowebsite.netlify.app/)
 
 ---
 
@@ -14,11 +14,7 @@ This is my **personal portfolio website** showcasing my projects, skills, and ex
 
 ---
 
-## 📸 Screenshots
 
-![Portfolio Preview](your-screenshot-link)
-
----
 
 ## 🎯 Features
 
@@ -30,5 +26,30 @@ This is my **personal portfolio website** showcasing my projects, skills, and ex
 
 ---
 
-## 📂 Project Structure
+
+---
+
+## 🚀 Installation & Setup
+
+To run the project locally:
+
+1. **Clone the repository**  
+   ```sh
+   git clone https://github.com/ujjwal12op/portfolio-website
+   cd your-portfolio-repo
+
+2. **Install dependencies**
+
+sh
+Copy
+Edit
+npm install
+Start the development server
+
+sh
+Copy
+Edit
+npm start
+The project will be available at http://localhost:3000.
+
 
