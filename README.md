@@ -41,14 +41,12 @@ To run the project locally:
 2. **Install dependencies**
 
 ```sh
-Copy
-Edit
+
 npm install
 Start the development server
 
 ```sh
-Copy
-Edit
+
 npm start
 The project will be available at http://localhost:3000.
 
