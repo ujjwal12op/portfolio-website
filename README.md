@@ -45,7 +45,6 @@ To run the project locally:
 npm install
 Start the development server
 
-```sh
 
 npm start
 The project will be available at http://localhost:3000.
