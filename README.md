@@ -40,13 +40,13 @@ To run the project locally:
 
 2. **Install dependencies**
 
-sh
+```sh
 Copy
 Edit
 npm install
 Start the development server
 
-sh
+```sh
 Copy
 Edit
 npm start
